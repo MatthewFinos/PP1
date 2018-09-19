@@ -27,6 +27,7 @@ namespace Test
                     Console.ReadLine();
                     maybe = false;
                 }
+                kieren();
             } while (false);
         }
 
