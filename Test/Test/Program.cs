@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             /* will it work*/
+            /* yes it will */
         }
     }
 }
