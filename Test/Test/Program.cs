@@ -16,5 +16,10 @@ namespace Test
             /*Kieren code*/
             /*Matthew Code*/
         }
+
+        public static void kieren()
+        {
+            /* this is kierens part */
+        }
     }
 }
