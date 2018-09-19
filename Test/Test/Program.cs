@@ -24,18 +24,16 @@ namespace Test
                 {
                     
                     Console.WriteLine("This is functional Code");
-                    Console.ReadLine();
                     maybe = false;
                 }
                 kieren();
-            } while (false);
+            } while (maybe == false);
         }
 
         public static void kieren()
         {
             /* this is kierens part */
             Console.WriteLine("Kierens part");
-            Console.ReadLine();
         }
     }
 }
