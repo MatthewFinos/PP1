@@ -10,12 +10,6 @@ namespace Test
     {
         static void Main(string[] args)
         {
-            /* will it work*/
-            /* yes it will */
-            /*Checking*/
-            /*Kieren code*/
-            /*Matthew Code*/
-            /*This is Mattews Part*/
            bool maybe = false;
             do
             {
@@ -26,11 +20,11 @@ namespace Test
                     Console.WriteLine("This is functional Code");
                     maybe = false;
                 }
-                kieren();
+                Kieren();
             } while (maybe == false);
         }
 
-        public static void kieren()
+        public static void Kieren()
         {
             /* this is kierens part */
             Console.WriteLine("Kierens part");
