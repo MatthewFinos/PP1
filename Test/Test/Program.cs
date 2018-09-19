@@ -16,8 +16,18 @@ namespace Test
             /*Kieren code*/
             /*Matthew Code*/
             /*This is Mattews Part*/
-            Console.WriteLine("This is functional Code");
-            Console.ReadLine();
+           bool maybe = false;
+            do
+            {
+                maybe = true;
+                if (maybe)
+                {
+                    
+                    Console.WriteLine("This is functional Code");
+                    Console.ReadLine();
+                    maybe = false;
+                }
+            } while (false);
         }
 
         public static void kieren()
