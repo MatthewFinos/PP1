@@ -21,6 +21,8 @@ namespace Test
         public static void kieren()
         {
             /* this is kierens part */
+            Console.WriteLine("Kierens part");
+            Console.ReadLine();
         }
     }
 }
