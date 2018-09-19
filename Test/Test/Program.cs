@@ -16,6 +16,8 @@ namespace Test
             /*Kieren code*/
             /*Matthew Code*/
             /*This is Mattews Part*/
+            Console.WriteLine("This is functional Code");
+            Console.ReadLine();
         }
     }
 }
